@@ -1,0 +1,2 @@
+# samitkumarpatel.github.io
+blog
