@@ -1,10 +1,11 @@
 ---
 layout: post
-title: self signed ssl certificate witn nginx
+title: Self signed ssl certificate witn nginx
 ---
 
 
 **Create a self-signed certificate**
+
 To set up Nginx as an SSL provider, you need an SSL certificate. This article shows how to create and set up a self-signed SSL certificate. For production scenarios, you should obtain a certificate from a certificate authority.
 
 To create a self-signed SSL certificate, use the OpenSSL tool available in Azure Cloud Shell and many Linux distributions, or use a comparable client tool in your operating system.
