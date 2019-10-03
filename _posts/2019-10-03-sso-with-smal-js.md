@@ -1,6 +1,7 @@
------
-
------
+---
+layout: post
+title: SSO - with msal.js from Microsoft
+---
 
 **Secure Static Webpage with msal.js**
 
@@ -10,17 +11,12 @@ An Example
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>vue-msal-poc</title>
+    <title>SSO msal.js</title>
   </head>
   <body>
     <noscript>
       <strong>We're sorry but vue-msal-poc doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
-    <div id="app"></div>
 
     <h2>Welcome to MSAL.js Quickstart</h2><br/>
     <h4 id="WelcomeMessage"></h4>
