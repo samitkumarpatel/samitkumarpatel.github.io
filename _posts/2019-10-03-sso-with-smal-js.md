@@ -1,7 +1,9 @@
 ---
 layout: post
-title: SSO - with msal.js from Microsoft
+title: SSO - with msal.js for SPA
 ---
+
+[microsoft guide](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-spa)
 
 **Secure Static Webpage with msal.js**
 
@@ -136,7 +138,17 @@ An Example
               errorCode === "interaction_required" ||
               errorCode === "login_required";
       }
-      
+      function callMSGraph(theUrl, accessToken, callback) {
+         var xmlHttp = new XMLHttpRequest();
+         xmlHttp.onreadystatechange = function () {
+         if (this.readyState == 4 && this.status == 200)
+            callback(JSON.parse(this.responseText));
+         }
+         xmlHttp.open("GET", theUrl, true); // true for asynchronous
+         xmlHttp.setRequestHeader('Authorization', 'Bearer ' + accessToken);
+         xmlHttp.send();
+      }
+     
       // Browser check variables
       var ua = window.navigator.userAgent;
       var msie = ua.indexOf('MSIE ');
