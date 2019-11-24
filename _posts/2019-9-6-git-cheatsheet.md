@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git cheatsheet
+title: Git Cheatsheet
 ---
 
 ## git config (for debug)
