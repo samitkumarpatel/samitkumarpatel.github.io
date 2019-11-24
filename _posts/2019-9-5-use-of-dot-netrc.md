@@ -1,6 +1,6 @@
 ---
 layout: post
-title: use of .netrc for git
+title: .netrc for git
 ---
 
 
