@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mount Azure Storage in VM
+title: Mount Azure Storage in VM with ansible
 ---
 
 
@@ -11,7 +11,7 @@ With ansible we can mount a azure storage share file in a Virtual Machine (VM).
 
 playbook.yml
 
-```
+```yml
 - hosts: dde
   become: True
   vars:
@@ -29,7 +29,7 @@ playbook.yml
     
     - name: Create Credentials folder
       file:
-        path: "{{ storage_accounts_credentials_directory }}"
+        path: "'{{ storage_accounts_credentials_directory }}'"
         state: directory
         mode: 00600
         owner: "root"
