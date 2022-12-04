@@ -1,9 +1,12 @@
-### Local Development
-* Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-* Clone down your fork git clone https://github.com/yourusername/yourusername.github.io.git
-* Serve the site and watch for markup/sass changes `jekyll serve`
-* View your website at http://127.0.0.1:4000/
-* Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+# cheat sheet
 
-### For more information
-https://biodata-club.github.io/githubPagesTutorial/
+- Samit Kumar Patel [RESUME](RESUME.md)
+
+### Good To Know
+- [azure storage mount in virtual machine](./old-posts/azure-storage-mount-in-vm.md)
+- [docker machine](./old-posts/docker-machine.md)
+- [docker persistance volume](./old-posts/docker-persistance-volume.md)
+- [Git cheat sheet](./old-posts/git-cheatsheet.md)
+- [self signed ssl certificate](./old-posts/self-signed-ssl-certificate.md)
+- [sso with smal.js](./old-posts/sso-with-smal-js.md)
+- [Use of .netrc](./old-posts/use-of-dot-netrc.md)
