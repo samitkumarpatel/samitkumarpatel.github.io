@@ -1,5 +1,5 @@
 # Samit Kumar Patel
-
+<img align="right" width="200" height="220" src="https://avatars.githubusercontent.com/samitkumarpatel">
 **Lead DevOps Engineer / Fullstack Programmer (Java | Python | Go | JavaScript)**  
 Copenhagen, Capital Region of Denmark, Denmark
 
