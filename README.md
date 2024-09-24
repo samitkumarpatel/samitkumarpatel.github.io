@@ -108,16 +108,22 @@ _2007 - 2010_
 ---
 
 ## Skills
-- **Cloud Platforms**: `AWS`, `Azure`, `GCP`
-- **Programming**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
-- **Backend framework**: `Springboot`, `Springboot Webflux`, `play framework`
+- **Cloud**: `AWS`, `Azure`, `GCP`
+- **Programming Language**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
+- **Backend framework**: `Springboot`, `Springboot Webflux`, `play framework`, `node.js`,`express.js`
 - **Frontend Frameworks**: `Vue.js`, `React.js`, `Angular.js`
 - **Scripting**: `Python`, `Shell`
 - **Infrastructure as Code**: `Terraform`, `Pulumi`
-- **CI/CD**: `Jenkins`, `Azure DevOps`, `GitHub Action`, `ArgoCD`
-- **Configuration Management**: `Ansible`
+- **CI/CD Pipeline as Code**: `Jenkins`, `Azure DevOps`, `GitHub Action`, `ArgoCD`
+- **Configuration Management**: `Ansible`, `Ansibel Tower`
 - **Containerization**: `Docker`, `Docker Compose`, `Docker Swarm`, `Kubernetes`
-- **Observability**: `lgtm (loki, grafana, tempo & mimir)`, `efk`, `elk`
+- **Observability**: `lgtm (loki, grafana, tempo & mimr)`, `efk (elastic, fluentd, kibana)`, `elk (elastic, logstash, kibana)`
+- **database**: `postgres`, `oracle`, `mysql`, `cassandra`, `mongodb`, `cosmosdb`
+- **pub sub**: `Kafka`, `Rabbit Mq`
+- **Caching**: `Redis Cache`
+- **Other**: `Temporal`
+- **API Gateway**: `spring cloud gateway`, `kong`, `apigee`
+- **CDN**: `azure`, `akami`
 
 ---
 
