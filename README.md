@@ -21,17 +21,18 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 - Infrastructure Design.
 - Infrastructure Provisioning.
 - DevOps Activities.
+- Designing CI/CD pipelines.
 - Site Reliability Engineering (SRE).
 - Platform Engineering.
-- Monolith and Microservice Development.
+- Microservice & monolith application Development.
 - Frontend Development.
 
 ### My areas of expertise include:
 - **Infrastructure as Code**: Designing and provisioning infrastructure using tools like Terraform and Pulumi.
 - **CI/CD Pipeline as Code**: Building pipelines with Jenkins, Azure DevOps, GitHub Actions, and Argo CD.
 - **Cloud-Native Tools**: Utilizing Docker, Kubernetes, Serverless Functions, and other cloud-native technologies for efficient application deployment and management.
-- **Kubernetes Administration**: Managing Kubernetes clusters, Cloud RBAC, and overseeing user and subscription management across platforms like Azure, AWS, and GCP.
-- **Self-Service Tooling**: Developing self-service tools for Kafka, performance testing, and RBAC management for Azure, AWS, and GCP to streamline access to infrastructure and resources.
+- **Kubernetes Administration**: Managing Kubernetes clusters, Integrate RBAC, Managing Operators for EKS, AKS, GKE and on-primise cluster.
+- **Self-Service Tooling**: Developing self-service tooling for Kafka Producer and consumer, Centralise performance testing tools, and RBAC management for Azure, AWS, and GCP to streamline access to infrastructure and resources.
 - **Programming/Development**: Developing both monolithic and microservice architectures using Java, Spring Boot (MVC and WebFlux), Kotlin, Go, Python, and JavaScript.
 - **Frontend Development**: Building Single Page Applications (SPA) using Vue.js, React.js, and Angular.js.
 
