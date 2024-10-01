@@ -24,6 +24,7 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 - Designing CI/CD pipelines.
 - Site Reliability Engineering (SRE).
 - Platform Engineering.
+- Expertise on Java and spring ecosystem.
 - Microservice & monolith application Development.
 - Frontend Development.
 
@@ -33,8 +34,9 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 - **Cloud-Native Tools**: Utilizing Docker, Kubernetes, Serverless Functions, and other cloud-native technologies for efficient application deployment and management.
 - **Kubernetes Administration**: Managing Kubernetes clusters, Integrate RBAC, Managing Operators for EKS, AKS, GKE and on-primise cluster.
 - **Self-Service Tooling**: Developing self-service tooling for Kafka Producer and consumer, Centralise performance testing tools, and RBAC management for Azure, AWS, and GCP to streamline access to infrastructure and resources.
-- **Programming/Development**: Developing both monolithic and microservice architectures using Java, Spring Boot (MVC and WebFlux), Kotlin, Go, Python, and JavaScript.
+- **Software Development**: Developing both microservice and monolithic architectures using Java [Spring Boot (MVC and WebFlux)], Kotlin, Go, Python, and JavaScript.
 - **Frontend Development**: Building Single Page Applications (SPA) using Vue.js, React.js, and Angular.js.
+- **springboot Ecosystem**: Proficient in the Spring Boot ecosystem, capable of building dynamic web applications and APIs using various Spring Boot stacks such as Spring Data, Spring MVC, Spring WebFlux, Spring Security, Spring Integration, and more.
 
 
 ## Experience
@@ -111,7 +113,7 @@ _2007 - 2010_
 ## Skills
 - **Cloud**: `AWS`, `Azure`, `GCP`
 - **Programming Language**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
-- **Backend framework**: `Springboot`, `Springboot Webflux`, `play framework`, `node.js`,`express.js`
+- **Backend framework**: `Springboot [mvc, webflux, data, security]`, `play framework`, `node.js`,`express.js`
 - **Frontend Frameworks**: `Vue.js`, `React.js`, `Angular.js`
 - **Scripting**: `Python`, `Shell`
 - **Infrastructure as Code**: `Terraform`, `Pulumi`
