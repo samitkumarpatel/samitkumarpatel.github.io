@@ -34,7 +34,7 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 - **Cloud-Native Tools**: Utilizing Docker, Kubernetes, Serverless Functions, and other cloud-native technologies for efficient application deployment and management.
 - **Kubernetes Administration**: Managing Kubernetes clusters, Integrate RBAC, Managing Operators for EKS, AKS, GKE and on-primise cluster.
 - **Self-Service Tooling**: Developing self-service tooling for Kafka Producer and consumer, Centralise performance testing tools, and RBAC management for Azure, AWS, and GCP to streamline access to infrastructure and resources.
-- **Software Development**: Developing both microservice and monolithic architectures using Java [Spring Boot (MVC and WebFlux)], Kotlin, Go, Python, and JavaScript.
+- **Software Development**: Developing both microservice and monolithic architectures using Java [Spring Boot (MVC and WebFlux)], Kotlin, Go, Python, and JavaScript (node.js , express.js).
 - **Frontend Development**: Building Single Page Applications (SPA) using Vue.js, React.js, and Angular.js.
 - **springboot Ecosystem**: Proficient in the Spring Boot ecosystem, capable of building dynamic web applications and APIs using various Spring Boot stacks such as Spring Data, Spring MVC, Spring WebFlux, Spring Security, Spring Integration, and more.
 
@@ -82,7 +82,7 @@ _July 2019 - February 2021_
 - Provided platform and tooling support and administration
 - Administered Azure DevOps
 - Kubernetes (K8s) administration on IBM Cloud
-- Managed and maintained a centralized library
+- Managed and maintained a centralized library written on go, shell script, python and etc.
 - Managed, maintained, and automated in-house tools including Atlassian products (Jira, Confluence, Bitbucket), SonarQube, HashiCorp Vault, Jenkins, and Hudson
 
 ### UST
