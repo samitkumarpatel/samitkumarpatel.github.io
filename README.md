@@ -7,13 +7,13 @@ Copenhagen, Capital Region of Denmark, Denmark
 
 ## Contact
 - **Phone**: +45 71610257  
-- **Email**: [samitkumarpatel@live.com](mailto:samitkumarpatel@live.com)  
+- **:envelope:** [samitkumarpatel@live.com](mailto:samitkumarpatel@live.com)  
 - **LinkedIn**: [linkedin.com/in/samitkumarpatel](https://www.linkedin.com/in/samitkumarpatel)
 
 ---
 
 ## Summary
-With over 16+ years of experience in IT, I specialize in DevOps Engineering, Platform Engineering, cloud-native technologies, and full-stack development across various domains including Transportation & Logistic, Master Data Management System (MDM) and Financing.
+With over 18+ years of experience in IT, I specialize in DevOps Engineering, Platform Engineering, cloud-native technologies, and full-stack development across various domains including Transportation & Logistic, Master Data Management System (MDM) and Financing.
 
 ## My Expertise and Daily Responsibilities
 
@@ -24,7 +24,7 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 - Designing CI/CD pipelines.
 - Site Reliability Engineering (SRE).
 - Platform Engineering.
-- Expertise on Java and spring ecosystem.
+- Expertise on Java and spring & springboot ecosystem.
 - Microservice & monolith application Development.
 - Frontend Development.
 
@@ -96,11 +96,11 @@ _July 2013 - August 2018_
 ### Architectural Design Bureau
 **Software Engineer**  
 *Orissa and Hyderabad, India*  
-_December 2009 - March 2013_  
+_December 2004 - March 2013_  
 - Analyzed requirements, developed design documents, and wrote system code.
 - Verified system stability, scalability, and security for Java-based applications.
 - Provided technical guidance and oversight to junior engineers.
-
+- Developing Desktop application in Vb.net, Foxpro, C++, html, Javascript
 ---
 
 ## Education
