@@ -7,7 +7,7 @@ Copenhagen, Capital Region of Denmark, Denmark
 
 ## Contact
 - **Phone**: +45 71610257  
-- **:envelope:** [samitkumarpatel@live.com](mailto:samitkumarpatel@live.com)  
+- **Email**: [samitkumarpatel@live.com](mailto:samitkumarpatel@live.com)  
 - **LinkedIn**: [linkedin.com/in/samitkumarpatel](https://www.linkedin.com/in/samitkumarpatel)
 
 ---
