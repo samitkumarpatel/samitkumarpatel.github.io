@@ -15,10 +15,9 @@ Copenhagen, Capital Region of Denmark, Denmark
 ## Summary
 With over 18+ years of experience in IT, I specialize in DevOps Engineering, Platform Engineering, cloud-native technologies, and full-stack development across various domains including Transportation & Logistic, Master Data Management System (MDM) and Financing.
 
-## My Expertise and Daily Responsibilities
-
 ### Day-to-Day Responsibilities
-- In my daily work, I am primarily engaged in:
+
+In my daily work, I am primarily engaged in:
 - Applying **Generative AI (GenAI)** to automate DevOps workflows and enhance the software development lifecycle.
 - **Infrastructure Design** and **Provisioning**, ensuring scalable and secure cloud-native environments.
 - Performing a broad range of **DevOps activities**, from automation to deployment.
