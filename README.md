@@ -1,4 +1,4 @@
-<img align="right" width="200" height="220" src="https://avatars.githubusercontent.com/samitkumarpatel" style="display: block;" alt="Samit Kumar Patel">
+<!--img align="right" width="200" height="220" src="https://avatars.githubusercontent.com/samitkumarpatel" style="display: block;" alt="Samit Kumar Patel"-->
 
 # Samit Kumar Patel
 
@@ -17,27 +17,36 @@ With over 18+ years of experience in IT, I specialize in DevOps Engineering, Pla
 
 ## My Expertise and Daily Responsibilities
 
-### In my day-to-day work, I am primarily involved in:
-- Infrastructure Design.
-- Infrastructure Provisioning.
-- DevOps Activities.
-- Designing CI/CD pipelines.
-- Site Reliability Engineering (SRE).
-- Platform Engineering.
-- Expertise on Java and spring & springboot ecosystem.
-- Microservice & monolith application Development.
-- Frontend Development.
+### Day-to-Day Responsibilities
+- In my daily work, I am primarily engaged in:
+- Applying **Generative AI (GenAI)** to automate DevOps workflows and enhance the software development lifecycle.
+- **Infrastructure Design** and **Provisioning**, ensuring scalable and secure cloud-native environments.
+- Performing a broad range of **DevOps activities**, from automation to deployment.
+- Designing and implementing robust **CI/CD pipelines**.
+- Practicing **Site Reliability Engineering (SRE)** to improve system reliability and performance.
+- Driving **Platform Engineering** initiatives for developer enablement and infrastructure abstraction.
+- Full-stack **Software Development**, with deep expertise in Java and the Spring ecosystem.
+- Developing both **microservices** and **monolithic** applications.
+- Contributing to **frontend development** with modern JavaScript frameworks.
 
-### My areas of expertise include:
-- **Infrastructure as Code**: Designing and provisioning infrastructure using tools like Terraform and Pulumi.
-- **CI/CD Pipeline as Code**: Building pipelines with Jenkins, Azure DevOps, GitHub Actions, and Argo CD.
-- **Cloud-Native Tools**: Utilizing Docker, Kubernetes, Serverless Functions, and other cloud-native technologies for efficient application deployment and management.
-- **Kubernetes Administration**: Managing Kubernetes clusters, Integrate RBAC, Managing Operators for EKS, AKS, GKE and on-primise cluster.
-- **Self-Service Tooling**: Developing self-service tooling for Kafka Producer and consumer, Centralise performance testing tools, and RBAC management for Azure, AWS, and GCP to streamline access to infrastructure and resources.
-- **Software Development**: Developing both microservice and monolithic architectures using Java [Spring Boot (MVC and WebFlux)], Kotlin, Go, Python, and JavaScript (node.js , express.js).
-- **Frontend Development**: Building Single Page Applications (SPA) using Vue.js, React.js, and Angular.js.
-- **springboot Ecosystem**: Proficient in the Spring Boot ecosystem, capable of building dynamic web applications and APIs using various Spring Boot stacks such as Spring Data, Spring MVC, Spring WebFlux, Spring Security, Spring Integration, and more.
-
+### Areas of Expertise
+- **Infrastructure as Code (IaC)**: Expert in designing and provisioning infrastructure using tools like Terraform and Pulumi.
+- **CI/CD Pipeline as Code**: Building and managing pipelines with Jenkins, Azure DevOps, GitHub Actions, and Argo CD.
+- **Cloud-Native Technologies**: Proficient with Docker, Kubernetes, and Serverless platforms for efficient application delivery.
+- **Kubernetes Administration**: Skilled in managing Kubernetes clusters across EKS, AKS, GKE, and on-premises, including RBAC integration and Operator lifecycle management.
+- **Self-Service Tooling**: Developing tools for:
+    - Kafka producer/consumer onboarding,
+    - Centralized performance testing,
+    - Role-based access (RBAC) automation across Azure, AWS, and GCP.
+- **Backend Development**: Building microservices and monoliths using:
+    - Java (Spring Boot with MVC, WebFlux, Security, Integration, Data),
+    - Kotlin, Go, Python, and Node.js (with Express).
+- **Frontend Development**: Creating SPAs using Vue.js, React.js, and AngularJS.
+- **Spring Boot Ecosystem**: Deep expertise in the full Spring Boot stack for web applications and APIs: Spring Data, MVC, WebFlux, Security, and more.
+- **Agentic Workflows with GenAI**:
+    - Designing intelligent agents and workflows that automate infrastructure provisioning,
+    - Streamlining DevOps tasks,
+    - Developing GenAI-powered chatbots and autonomous agents.
 
 ## Experience
 
@@ -111,6 +120,8 @@ _2007 - 2010_
 ---
 
 ## Skills
+- **GenAI Platforms & APIs**: OpenAI, Azure OpenAI, Ollama
+- **AI Libraries & Frameworks**: Google adk, Spring AI
 - **Cloud**: `AWS`, `Azure`, `GCP`
 - **Programming Language**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
 - **Backend framework**: `Springboot [mvc, webflux, data, security]`, `play framework`, `node.js`,`express.js`
@@ -132,8 +143,6 @@ _2007 - 2010_
 
 ## Languages
 - **English**
-- **Oriya**
-- **Hindi**
 
 ---
 
