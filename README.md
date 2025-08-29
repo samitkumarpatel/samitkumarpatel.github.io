@@ -18,7 +18,7 @@ With over 18+ years of experience in IT, I specialize in DevOps Engineering, Pla
 ### Day-to-Day Responsibilities
 
 In my daily work, I am primarily engaged in:
-- Applying **Generative AI (GenAI)** to automate DevOps workflows and enhance the software development lifecycle.
+- Leveraging **Generative AI (GenAI)** to streamline various workflows like SelfService portal, DevOps workflow, to reduce manual effort, and enhance productivity throughout the software development lifecycle.
 - **Infrastructure Design** and **Provisioning**, ensuring scalable and secure cloud-native environments.
 - Performing a broad range of **DevOps activities**, from automation to deployment.
 - Designing and implementing robust **CI/CD pipelines**.
@@ -53,6 +53,7 @@ In my daily work, I am primarily engaged in:
 **Lead Engineer**  
 *Copenhagen, Denmark*  
 _February 2022 - Present_  
+- Leveraging Generative AI–powered development tooling to boost productivity, accelerate solution design, and enable automation for higher efficiency and faster delivery.  
 - Azure Infrastructure as Code using Terraform
 - CI/CD pipeline development with GitHub Actions and Argo CD
 - AKS (Azure Kubernetes Service) Cluster Management
@@ -120,7 +121,7 @@ _2007 - 2010_
 
 ## Skills
 - **GenAI Platforms & APIs**: OpenAI, Azure OpenAI, Ollama
-- **AI Libraries & Frameworks**: Google adk, Spring AI
+- **AI Libraries & Frameworks**: Google adk, Spring AI, langChain.
 - **Cloud**: `AWS`, `Azure`, `GCP`
 - **Programming Language**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
 - **Backend framework**: `Springboot [mvc, webflux, data, security]`, `play framework`, `node.js`,`express.js`
