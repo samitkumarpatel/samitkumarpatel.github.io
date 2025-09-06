@@ -2,7 +2,7 @@
 
 # Samit Kumar Patel
 
-**Lead DevOps Engineer / Fullstack Programmer (Java | Python | Go | JavaScript)**  
+**Lead Engineer | DevOps | Cloud-Native | Fullstack Programmer - Java | Go | Python | React | Vue**  
 Copenhagen, Capital Region of Denmark, Denmark
 
 ## Contact
@@ -13,20 +13,11 @@ Copenhagen, Capital Region of Denmark, Denmark
 ---
 
 ## Summary
-With over 18+ years of experience in IT, I specialize in DevOps Engineering, Platform Engineering, cloud-native technologies, and full-stack development across various domains including Transportation & Logistic, Master Data Management System (MDM) and Financing.
+With over 18 years in IT, I specialize in DevOps Engineering, Cloud-Native Platforms, and Full-Stack Development across domains like Transportation & Logistics, Master Data Management (MDM), and Finance. My work bridges the gap between infrastructure and software engineering, enabling scalable, secure, and automated solutions.
 
-### Day-to-Day Responsibilities
+Day-to-day, I focus on infrastructure automation, CI/CD pipelines, and Site Reliability Engineering (SRE) while also developing full-stack applications using Java, Go, Python, and modern JavaScript frameworks (React, Vue). I’m passionate about Platform Engineering, creating self-service tooling that empowers developers and accelerates delivery.
 
-In my daily work, I am primarily engaged in:
-- Leveraging **Generative AI (GenAI)** to streamline various workflows like SelfService portal, DevOps workflow, to reduce manual effort, and enhance productivity throughout the software development lifecycle.
-- **Infrastructure Design** and **Provisioning**, ensuring scalable and secure cloud-native environments.
-- Performing a broad range of **DevOps activities**, from automation to deployment.
-- Designing and implementing robust **CI/CD pipelines**.
-- Practicing **Site Reliability Engineering (SRE)** to improve system reliability and performance.
-- Driving **Platform Engineering** initiatives for developer enablement and infrastructure abstraction.
-- Full-stack **Software Development**, with deep expertise in Java and the Spring ecosystem.
-- Developing both **microservices** and **monolithic** applications.
-- Contributing to **frontend development** with modern JavaScript frameworks.
+Utilizing Generative AI (GenAI) capabilities to optimize DevOps workflows, automate infrastructure provisioning, and build intelligent agent-based solutions that enhance productivity and efficiency across the software development lifecycle.
 
 ### Areas of Expertise
 - **Infrastructure as Code (IaC)**: Expert in designing and provisioning infrastructure using tools like Terraform and Pulumi.
