@@ -13,7 +13,7 @@ Copenhagen, Capital Region of Denmark, Denmark
 ---
 
 ## Summary
-With over 18 years in IT, I specialize in DevOps Engineering, Cloud-Native Platforms, and Full-Stack Development across domains like Transportation & Logistics, Master Data Management (MDM), and Finance. My work bridges the gap between infrastructure and software engineering, enabling scalable, secure, and automated solutions.
+With over 15+ years in IT, I specialize in DevOps Engineering, Cloud-Native Platforms, and Full-Stack Development across domains like Transportation & Logistics, Master Data Management (MDM), and Finance. My work bridges the gap between infrastructure and software engineering, enabling scalable, secure, and automated solutions.
 
 Day-to-day, I focus on infrastructure automation, CI/CD pipelines, and Site Reliability Engineering (SRE) while also developing full-stack applications using Java, Go, Python, and modern JavaScript frameworks (React, Vue). I’m passionate about Platform Engineering, creating self-service tooling that empowers developers and accelerates delivery.
 
