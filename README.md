@@ -20,6 +20,7 @@ Day-to-day, I focus on infrastructure automation, CI/CD pipelines, and Site Reli
 Utilizing Generative AI (GenAI) capabilities to optimize DevOps workflows, automate infrastructure provisioning, and build intelligent agent-based solutions that enhance productivity and efficiency across the software development lifecycle.
 
 ### Areas of Expertise
+
 - **Infrastructure as Code (IaC)**: Expert in designing and provisioning infrastructure using tools like Terraform and Pulumi.
 - **CI/CD Pipeline as Code**: Building and managing pipelines with Jenkins, Azure DevOps, GitHub Actions, and Argo CD.
 - **Cloud-Native Technologies**: Proficient with Docker, Kubernetes, and Serverless platforms for efficient application delivery.
@@ -37,6 +38,13 @@ Utilizing Generative AI (GenAI) capabilities to optimize DevOps workflows, autom
     - Designing intelligent agents and workflows that automate infrastructure provisioning,
     - Streamlining DevOps tasks,
     - Developing GenAI-powered chatbots and autonomous agents.
+- **API Development**: Designing and implementing RESTful and GraphQL APIs with OpenAPI/Swagger specifications, API Gateway integration (Apigee, Kong, Azure API Management), and best practices for security, scalability, and versioning.  
+
+- **Event Development**: Architecting and implementing event-driven systems using Apache Kafka, RabbitMQ, and cloud-native event services (AWS EventBridge, Azure Event Grid, GCP Pub/Sub) for real-time data processing and microservices orchestration.  
+
+- **PKI (Public Key Infrastructure)**: Implementing SSL/TLS certificates, managing certificate authorities, automating certificate issuance/renewal (Let’s Encrypt, Certbot, ACME), and securing internal/external services with mTLS and PKCS standards.  
+
+- **DNS & CDN Management**: Experienced in managing DNS zones, records, and delegations across Azure DNS, Route53; optimizing performance and security with CDN platforms like Akamai, and Azure Front Door.
 
 ## Experience
 
