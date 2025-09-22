@@ -52,6 +52,7 @@ Utilizing Generative AI (GenAI) capabilities to optimize DevOps workflows, autom
 **Lead Engineer**  
 *Copenhagen, Denmark*  
 _February 2022 - Present_  
+
 - Leveraging Generative AI–powered development tooling to boost productivity, accelerate solution design, and enable automation for higher efficiency and faster delivery.  
 - Azure Infrastructure as Code using Terraform
 - CI/CD pipeline development with GitHub Actions and Argo CD
@@ -70,6 +71,7 @@ _February 2022 - Present_
 **Senior IT Platform Engineer**  
 *København, Denmark*  
 _February 2021 - February 2022_  
+
 - DevSecOps advisory on SDLC practices
 - Advisory on Cloud-Native and GitOps practices
 - Contributed to and developed Terraform modules for private cloud
@@ -83,6 +85,7 @@ _February 2021 - February 2022_
 **Lead Engineer - DevOps**  
 *Copenhagen, Denmark*  
 _July 2019 - February 2021_  
+
 - Designed and developed in-house tooling infrastructure with Ansible
 - Created Jenkins shared pipelines as code using Groovy
 - Managed Ansible Tower for automation
@@ -97,6 +100,7 @@ _July 2019 - February 2021_
 **System Analyst**  
 *Copenhagen, Denmark / London, UK / Kerala, India*  
 _July 2013 - August 2018_  
+
 - Full-stack development in Java, HTML, CSS, and SOA middleware (ESB, OSB) technologies.
 - Managed CI/CD automation on Jenkins and Hudson.
 - Collaborated on requirements analysis, system design, and production bug fixing.
@@ -105,10 +109,12 @@ _July 2013 - August 2018_
 **Software Engineer**  
 *Orissa and Hyderabad, India*  
 _December 2004 - March 2013_  
+
 - Analyzed requirements, developed design documents, and wrote system code.
 - Verified system stability, scalability, and security for Java-based applications.
 - Provided technical guidance and oversight to junior engineers.
-- Developing Desktop application in Vb.net, Foxpro, C++, html, Javascript
+- Developing Desktop application in Vb.net, Foxpro, C++, html, Javascript.
+
 ---
 
 ## Education
@@ -132,11 +138,11 @@ _2007 - 2010_
 - **Containerization**: `Docker`, `Docker Compose`, `Docker Swarm`, `Kubernetes`
 - **Observability**: `lgtm (loki, grafana, tempo & mimr)`, `efk (elastic, fluentd, kibana)`, `elk (elastic, logstash, kibana)`
 - **database**: `postgres`, `oracle`, `mysql`, `cassandra`, `mongodb`, `cosmosdb`
-- **pub sub**: `Kafka`, `Rabbit Mq`
+- **publisher/subscriber**: `Kafka`, `Rabbit Mq`
 - **Caching**: `Redis Cache`
 - **Other**: `Temporal`
 - **API Gateway**: `spring cloud gateway`, `kong`, `apigee`
-- **CDN**: `azure`, `akami`
+- **CDN**: `azure`, `akamai`
 
 ---
 
