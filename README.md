@@ -101,8 +101,8 @@ _July 2019 - February 2021_
 *Copenhagen, Denmark / London, UK / Kerala, India*  
 _July 2013 - August 2018_  
 
-- Full-stack development in Java, HTML, CSS, and SOA middleware (ESB, OSB) technologies.
-- Managed CI/CD automation on Jenkins and Hudson.
+- Full-stack development in Java, SOA middleware (ESB, OSB), JavaScript, Html, css technologies.
+- Managed CI/CD automation on Hudson and Jenkins.
 - Collaborated on requirements analysis, system design, and production bug fixing.
 
 ### Architectural Design Bureau
@@ -137,19 +137,11 @@ _2007 - 2010_
 - **Configuration Management**: `Ansible`, `Ansibel Tower`
 - **Containerization**: `Docker`, `Docker Compose`, `Docker Swarm`, `Kubernetes`
 - **Observability**: `lgtm (loki, grafana, tempo & mimr)`, `efk (elastic, fluentd, kibana)`, `elk (elastic, logstash, kibana)`
-- **database**: `postgres`, `oracle`, `mysql`, `cassandra`, `mongodb`, `cosmosdb`
-- **publisher/subscriber**: `Kafka`, `Rabbit Mq`
+- **Database**: `postgres`, `oracle`, `mysql`, `cassandra`, `mongodb`, `cosmosdb`
+- **Distributed messaging systems/Message broker**: `Kafka`, `Rabbit Mq`
 - **Caching**: `Redis Cache`
-- **Other**: `Temporal`
-- **API Gateway**: `spring cloud gateway`, `kong`, `apigee`
+- **API Gateway**: `kong`, `apigee`, `traefik`, `spring cloud gateway`
 - **CDN**: `azure`, `akamai`
+- **Other**: `Temporal`
 
 ---
-
-## Languages
-- **English**
-
----
-
-## Certifications
-- **OpenHack: DevOps**
