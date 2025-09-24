@@ -2,7 +2,7 @@
 
 # Samit Kumar Patel
 
-**Lead Engineer | DevOps | Cloud-Native | Fullstack Programmer - Java | Go | Python | React | Vue**  
+**Lead DevOps Engineer | Fullstack Programmer - Java | Go | Python | React | Javascript**  
 Copenhagen, Capital Region of Denmark, Denmark
 
 ## Contact
