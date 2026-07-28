@@ -66,6 +66,7 @@
   .sidebar {
     width: var(--sidebar);
     flex-shrink: 0;
+    align-self: flex-start;
     position: sticky;
     top: 0;
     height: 100vh;
@@ -515,11 +516,16 @@
   .pdf-sheet .edu-year   { font-size: 11px; }
   .pdf-sheet a { color: inherit !important; text-decoration: none !important; }
 
-  /* @media print — shows only the sheet when overlay is open */
+  /* ── Print header (hidden on screen, shown when printing directly) ── */
+  .print-hdr { display: none; }
+
   @media print {
-    @page { margin: 0; size: A4 portrait; }
+    @page { margin: 0.65in 0.7in; size: A4 portrait; }
+
+    /* ── PATH A: overlay open → print only the pdf-sheet ── */
+    body.preview-open { background: white; }
     body.preview-open > aside,
-    body.preview-open > main { display: none !important; }
+    body.preview-open > main  { display: none !important; }
     body.preview-open .pdf-overlay {
       position: static !important;
       background: none !important;
@@ -531,8 +537,66 @@
     body.preview-open .pdf-sheet {
       box-shadow: none !important;
       width: 100% !important;
-      padding: 0.5in !important;
+      padding: 0 !important;
     }
+
+    /* ── PATH B: direct Ctrl+P from main page ── */
+    body:not(.preview-open) {
+      display: block;
+      background: white;
+      color: #111;
+      font-size: 10pt;
+    }
+    body:not(.preview-open) .sidebar  { display: none !important; }
+    body:not(.preview-open) .pdf-overlay { display: none !important; }
+    body:not(.preview-open) .print-hdr {
+      display: block;
+      margin-bottom: 1.2rem;
+      padding-bottom: 0.9rem;
+      border-bottom: 1.5px solid #bbb;
+    }
+    body:not(.preview-open) .print-hdr .ph-name {
+      font-size: 20pt; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.2rem;
+    }
+    body:not(.preview-open) .print-hdr .ph-title {
+      font-size: 8.5pt; color: #444; margin-bottom: 0.4rem; line-height: 1.4;
+    }
+    body:not(.preview-open) .print-hdr .ph-contact {
+      display: flex; flex-wrap: wrap; gap: 0.1rem 1.25rem; font-size: 8pt; color: #555;
+    }
+    body:not(.preview-open) main {
+      display: block !important;
+      padding: 0 !important;
+    }
+    body:not(.preview-open) .content-wrap { max-width: 100% !important; }
+    body:not(.preview-open) .section {
+      opacity: 1 !important;
+      transform: none !important;
+      margin-bottom: 1.2rem;
+      page-break-inside: avoid;
+    }
+    body:not(.preview-open) .section-label {
+      font-size: 6pt; color: #888; margin-bottom: 0.55rem;
+      border-bottom: 0.5px solid #ddd; padding-bottom: 0.18rem;
+    }
+    body:not(.preview-open) .section-label::after { display: none; }
+    body:not(.preview-open) .summary p { font-size: 8.5pt; color: #333; line-height: 1.6; max-width: none; }
+    body:not(.preview-open) .exp-item-title { font-size: 8pt; }
+    body:not(.preview-open) .exp-item-body  { font-size: 7.5pt; }
+    body:not(.preview-open) .tl-company { font-size: 9.5pt; }
+    body:not(.preview-open) .tl-period  { font-size: 7.5pt; }
+    body:not(.preview-open) .tl-role    { font-size: 8pt; }
+    body:not(.preview-open) .tl-list li { font-size: 7.5pt; }
+    body:not(.preview-open) .skills-filter { display: none !important; }
+    body:not(.preview-open) .skill-group   { display: flex !important; }
+    body:not(.preview-open) .sg-label { font-size: 7pt; }
+    body:not(.preview-open) .chip {
+      font-size: 7pt; border: 0.5px solid #ccc;
+      background: #f2f2f2; color: #333; padding: 0.08rem 0.38rem;
+    }
+    body:not(.preview-open) .edu-school { font-size: 9.5pt; }
+    body:not(.preview-open) .edu-degree { font-size: 8pt; }
+    body:not(.preview-open) a { color: inherit !important; text-decoration: none !important; }
   }
 
   /* ── Responsive ── */
@@ -614,6 +678,16 @@
 </aside>
 
 <main>
+<div class="print-hdr">
+  <div class="ph-name">Samit Kumar Patel</div>
+  <div class="ph-title">Lead DevOps Engineer &nbsp;·&nbsp; Fullstack Programmer — Java · Go · Python · React · JavaScript &nbsp;·&nbsp; Copenhagen, Denmark</div>
+  <div class="ph-contact">
+    <span>+45 71610257</span>
+    <span>samitkumarpatel@live.com</span>
+    <span>linkedin.com/in/samitkumarpatel</span>
+    <span>github.com/samitkumarpatel</span>
+  </div>
+</div>
 <div class="content-wrap">
   <section class="section" id="summary">
     <div class="section-label">Summary</div>
