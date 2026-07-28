@@ -1,4 +1,4 @@
-Samit Kumar Patel — [Interactive Resume](index.html) · [Markdown Resume](RESUME.md)
+Samit Kumar Patel — [Interactive Resume](/) · [Markdown Resume](RESUME.md)
 
 ### cheat sheet
 - [Azure storage mount in virtual machine](./posts/azure-storage-mount-in-vm.md)
